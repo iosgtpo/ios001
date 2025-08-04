@@ -31,7 +31,7 @@
 ✦•············································•✦
 
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
- <a href="http://lulu.%6b%35%39%34%2e%63%6f%6d/tai?f=lulu" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#21547;&#32670;&#33609;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></br>
+ <a href="http://lulu.%6b%35%39%34%2e%63%6f%6d/tai?f=lulu" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#25784;&#25784;&#23556;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></br>
 </div>
 
 Check out the [About](about.md) page to learn more about our 撸撸射 and values.
